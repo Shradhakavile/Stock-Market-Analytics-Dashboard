@@ -1,35 +1,37 @@
 # Stock Market Analytics Dashboard
 
-## Project Overview
-This project analyzes stock market performance using Python, MySQL, and Power BI. 
-The dashboard provides insights into stock price trends, volatility, returns, and trading volume for major tech companies.
+## Overview
+This project analyzes stock market performance using Python, MySQL, and Power BI.
+The dashboard visualizes stock price trends, volatility, returns, and trading volume for major tech companies.
 
 ## Technologies Used
-- Python (Pandas, NumPy)
-- MySQL
-- Power BI
-- Data Visualization
-- Financial Data Analysis
+Python
+Pandas
+NumPy
+MySQL
+Power BI
+Data Visualization
 
-## Features
-- KPI metrics for price and returns
-- Volatility analysis
-- Moving average trend tracking
-- Trading volume analysis
-- Dynamic market insights
-- Interactive filtering by stock symbol and date
-
-## Stocks Analyzed
+## Dataset
+Historical stock data for:
 - AAPL
 - AMZN
 - MSFT
 - NVDA
 - TSLA
 
-## Key Insights
-- TSLA shows the highest volatility among analyzed stocks.
-- NVDA recorded the highest trading volume.
-- Moving averages help identify price trends.
+## Features
+• Data cleaning and preprocessing using Python  
+• Financial metrics calculation (daily returns, moving averages, volatility)  
+• SQL queries for structured data analysis  
+• Interactive Power BI dashboard with KPIs and charts  
+• Dynamic filters for stock comparison  
+
+## Dashboard Preview
+![Dashboard](dashboard_screenshot.png)
+
+## Project Workflow
+Data Collection → Data Cleaning → Feature Engineering → SQL Analysis → Power BI Dashboard
 
 ## Author
-SHRADHA KAVILE
+Shradhakavile
