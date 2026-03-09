@@ -32,6 +32,7 @@ A linear regression model was used to forecast future stock prices based on hist
 
 Example insight:
 The prediction trend for TSLA shows a slight downward price trend over the analyzed period.
+![prediction](prediction_chart.png)
 
 ## Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
