@@ -27,6 +27,12 @@ Historical stock data for:
 • Interactive Power BI dashboard with KPIs and charts  
 • Dynamic filters for stock comparison  
 
+## Predictive Analysis
+A linear regression model was used to forecast future stock prices based on historical data.
+
+Example insight:
+The prediction trend for TSLA shows a slight downward price trend over the analyzed period.
+
 ## Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
 
